@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2024-04-23T14:30:36.265649+02:00
+Created-By: OpenL WebStudio v.5.26.6
+Implementation-Title: Tutorial 2 - Introduction to Data Tables
+Build-Branch: main
+Build-Number: f7ba444e19f1e9e763fe9cfa5e86df758c2041f1
+Implementation-Version: DEFAULT-2024-04-23_14-20-42
+Built-By: DEFAULT
+
