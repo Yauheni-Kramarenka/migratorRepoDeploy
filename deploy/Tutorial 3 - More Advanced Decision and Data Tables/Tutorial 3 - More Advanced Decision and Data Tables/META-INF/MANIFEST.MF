@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Date: 2024-04-23T14:30:07.067731+02:00
+Created-By: OpenL WebStudio v.5.26.6
+Implementation-Title: Tutorial 3 - More Advanced Decision and Data Table
+ s
+Build-Branch: main
+Build-Number: 16648383a7ff92d5b35ad1b2e55c40f6c3da526f
+Implementation-Version: DEFAULT-2024-04-23_14-20-50
+Built-By: DEFAULT
+
