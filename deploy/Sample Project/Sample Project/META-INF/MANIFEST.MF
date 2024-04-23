@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2024-04-23T18:30:42.74797+02:00
+Created-By: OpenL WebStudio v.5.26.6
+Implementation-Title: Sample Project
+Build-Branch: main
+Build-Number: 37372ea343e0ada9eddd4f5d4f07f8eef2250372
+Implementation-Version: DEFAULT-2024-04-23_18-30-32
+Built-By: DEFAULT
+
